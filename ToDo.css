@@ -1,0 +1,40 @@
+body{
+    font-family: "Pacifico", cursive;
+    color:darkblue;
+    background-color: brown;
+}
+input{
+    height:20px;
+    width:100px;
+}
+button{
+    height:23px;
+    width:50px;
+    background-color: black;
+    color:aliceblue;
+    border-radius:10%;
+}
+.todo{
+    background-image: url('todo\ img.jpg');
+    background-position: center;
+    background-size: cover;
+    height:500px;
+    width:600px;
+    border-radius:20%;
+}
+
+ul {
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.todo h1 {
+    margin-bottom: 20px;
+}
